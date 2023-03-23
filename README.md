@@ -1,9 +1,5 @@
 ### Hi there, I'm Guilherme Feitosa Fernandes 👋
 
-
-#### About
-I'm a Web Developer. And I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
-
 #### Current Stack
 
 - 🧑‍💻 main language: `javaScript`
