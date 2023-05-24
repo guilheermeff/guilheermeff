@@ -8,7 +8,6 @@
 - 🧩 Layout Design: `Figma`
 - 🗃️ Version Code Control: `Git`, `github`
 - 🔧 Tools: `VS Code`, `Markdown`
-- 🌎 I'm mostly active within the 'Rocketseat Community'
 
 #### Contacts
 
